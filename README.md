@@ -15,61 +15,82 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-- 🧠 **Cybersecurity Student** at **IU – International University of Applied Sciences (Germany)**
-- 🌐 **Web Developer** (Frontend & Backend)
-- 🐍 **Python Developer**
-- 🔐 Passionate about **Cybersecurity, OSINT, and Ethical Hacking**
-- 🎓 **Programming & English Instructor**
-- 🧪 I enjoy building tools, scripts, and secure systems
-- 💬 Ask me about **Python, Web Security, Linux, Networking, or Teaching Tech**
-- ⚡ Fun fact: I mix **tech, security, and creativity** in everything I build
+- 🧠 Cybersecurity Student at **IU – International University of Applied Sciences (Germany)**
+- 🌐 Web & Python Developer
+- 🔐 Red Team & Blue Team enthusiast
+- 🎓 Programming & English Instructor
+- 🧪 I build tools, scripts, and secure systems
+- 💬 Ask me about Python, Web Security, Linux & Cybersecurity
+- ⚡ I believe security is mindset before tools
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Core Tech Stack
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🔴 Red Team Skills
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kalilinux.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/burpsuite.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nmap.svg" width="55"/>
+</p>
+
+- 🧨 Web Application Penetration Testing  
+- 🕵️ OSINT & Reconnaissance  
+- 🐍 Python Exploitation Scripts  
+- 🌐 Network Scanning & Enumeration  
+
+---
+
+## 🔵 Blue Team Skills
+
+- 🛡️ Secure Web Application Design  
+- 🔍 Threat Detection & Analysis  
+- 📊 Log Analysis & Monitoring  
+- 🔐 Linux System Hardening  
+- ⚙️ Security Best Practices & Policies  
+
+---
+
+## 📊 GitHub Stats
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide=issues&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-### 📚 What I'm Currently Focused On
-- 🔍 Cybersecurity & Threat Analysis  
-- 🧠 Python for Automation & Security  
-- 🌐 Secure Web Applications  
-- 🧪 Personal Tools & Open-Source Projects  
+## 🎯 Current Focus
+- 🔐 Web Security & Pentesting  
+- 🧠 Cybersecurity Academic Studies (IU Germany)  
+- 🐍 Python Automation for Security  
+- 🧪 Building Personal Cyber Tools  
 
 ---
 
-### 🧠 Quote I Live By
-> *“Security is not a product, but a process.”* — Bruce Schneier
+## 🧠 Quote
+> “The quieter you become, the more you are able to hear.” — Kali Linux mindset
 
 ---
 
-### 😄 Developer Humor
+## 😄 Developer Humor
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories and connect with me!**
+⭐ If you like my work, feel free to star my repositories and connect with me.
