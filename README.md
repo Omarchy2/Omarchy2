@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Omar Essam  
+# Hi there! 👋 I'm Omer Isam  
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide=issues&count_private=true)
+![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide=issues&count_private=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
 
