@@ -1,96 +1,97 @@
-# Hi there! 👋 I'm Omer Isam  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+<!-- MATRIX / HACKER ANIMATION (WORKS IMMEDIATELY) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
-  </a>&nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" alt="Matrix animation"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=700&color=00C853&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Omer+Isam;Web+%26+Python+Developer;Cybersecurity+Student+%40+IU+Germany;Red+Team+%7C+Blue+Team+Enthusiast;Welcome+to+my+GitHub!" />
+</p>
+
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://github.com/Omarchy2">
+    <img src="https://img.shields.io/badge/GitHub-Omarchy2-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/omer_chy3?igsh=MTJscXI1dWk1dWVwaw%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-omer__chy3-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
-
-- 🧠 Cybersecurity Student at **IU – International University of Applied Sciences (Germany)**
-- 🌐 Web & Python Developer
-- 🔐 Red Team & Blue Team enthusiast
-- 🎓 Programming & English Instructor
+- 🧠 **Cybersecurity Student** — IU (Germany)
+- 🌐 **Web Developer** (Frontend & Backend)
+- 🐍 **Python Developer**
+- 🔐 **Red Team / Blue Team enthusiast**
+- 🎓 **Programming & English Instructor**
 - 🧪 I build tools, scripts, and secure systems
-- 💬 Ask me about Python, Web Security, Linux & Cybersecurity
-- ⚡ I believe security is mindset before tools
+- ⚡ Security is mindset before tools
 
 ---
 
 ## 🛠️ Core Tech Stack
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,linux&theme=light"/>
 </p>
 
 ---
 
-## 🔴 Red Team Skills
+## 🔴 Red Team Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kalilinux.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/burpsuite.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nmap.svg" width="55"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=for-the-badge"/>
 </p>
 
-- 🧨 Web Application Penetration Testing  
-- 🕵️ OSINT & Reconnaissance  
-- 🐍 Python Exploitation Scripts  
-- 🌐 Network Scanning & Enumeration  
+- Web Application Penetration Testing
+- OSINT & Reconnaissance
+- Python Exploitation Scripts
+- Network Scanning & Enumeration
 
 ---
 
 ## 🔵 Blue Team Skills
-
-- 🛡️ Secure Web Application Design  
-- 🔍 Threat Detection & Analysis  
-- 📊 Log Analysis & Monitoring  
-- 🔐 Linux System Hardening  
-- ⚙️ Security Best Practices & Policies  
+- Secure Web Application Design
+- Threat Detection & Analysis
+- Linux System Hardening
+- Log Analysis & Monitoring
+- Security Best Practices & Policies
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarchy2&show_icons=true&theme=default&hide=issues&bg_color=ffffff&title_color=111111&text_color=222222&icon_color=00C853"/>
+</p>
 
-![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide=issues&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarchy2&layout=compact&theme=default&bg_color=ffffff&title_color=111111&text_color=222222"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/YOUR_USERNAME)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarchy2&theme=default&background=FFFFFF&ring=00C853&fire=00C853&currStreakLabel=111111&sideLabels=111111&dates=333333"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
-- 🔐 Web Security & Pentesting  
-- 🧠 Cybersecurity Academic Studies (IU Germany)  
-- 🐍 Python Automation for Security  
-- 🧪 Building Personal Cyber Tools  
+- 🔐 Web Security & Pentesting
+- 🎓 Cybersecurity Academic Studies (IU Germany)
+- 🐍 Python Automation for Security
+- 🧪 Building Personal Cyber Tools
 
 ---
 
 ## 🧠 Quote
-> “The quieter you become, the more you are able to hear.” — Kali Linux mindset
+> *“The quieter you become, the more you are able to hear.”*
 
 ---
 
 ## 😄 Developer Humor
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" />
 
 ---
 
-⭐ If you like my work, feel free to star my repositories and connect with me.
+⭐ **Thanks for visiting my profile — connect with me on Instagram or GitHub.**
