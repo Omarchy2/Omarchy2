@@ -62,17 +62,11 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarchy2&show_icons=true&theme=default&hide=issues&bg_color=ffffff&title_color=111111&text_color=222222&icon_color=00C853"/>
-</p>
+- Active repositories with ongoing development
+- Focus on Python, Web Development, and Cybersecurity projects
+- Regular commits and continuous learning
+- Clean and well-documented code practices
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarchy2&layout=compact&theme=default&bg_color=ffffff&title_color=111111&text_color=222222"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarchy2&theme=default&background=FFFFFF&ring=00C853&fire=00C853&currStreakLabel=111111&sideLabels=111111&dates=333333"/>
-</p>
 
 ---
 
